@@ -169,3 +169,7 @@ cython_debug/
 
 # ignore get_songs.py
 get_songs.py
+
+# ignore below directories
+songs/
+instrumentals/
