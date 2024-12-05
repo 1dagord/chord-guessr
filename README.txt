@@ -11,6 +11,7 @@ Then, FFT analysis is performed on a random sample of the songs to identify whic
 
 Finally, a machine learning model will be evaluated on the remaining subset of songs and scored based on its accuracy.
 
+
 Development plan leading up to CG:
 1) create NN to guess key of song
 2) transpose song down to C
