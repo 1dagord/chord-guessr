@@ -164,12 +164,14 @@ cython_debug/
 # ------- Custom Additions -------
 
 # ignore all audio files of these extensions
-.m4a
-.mp3
+# .m4a
+# .mp3
 
 # ignore get_songs.py
 get_songs.py
 
 # ignore below directories
 songs/
-instrumentals/
+songs2/
+# instrumentals/
+instrumentals2/
